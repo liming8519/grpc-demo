@@ -1,4 +1,3 @@
  # start grpc server in golang container
- go get github.com/liming8519/grpc-demo && cd src/github.com/liming8519/grpc-demo
- go run server/main.go
+ go get github.com/liming8519/grpc-demo && cd src/github.com/liming8519/grpc-demo && go run server/main.go
 
